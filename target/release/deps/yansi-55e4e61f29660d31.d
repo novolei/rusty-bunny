@@ -1,0 +1,13 @@
+F:\NewRust\rusty-bunny\target\release\deps\yansi-55e4e61f29660d31.rmeta: C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+F:\NewRust\rusty-bunny\target\release\deps\libyansi-55e4e61f29660d31.rlib: C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+F:\NewRust\rusty-bunny\target\release\deps\yansi-55e4e61f29660d31.d: C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs
+
+C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\lib.rs:
+C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\docify.rs:
+C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\macros.rs:
+C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\windows.rs:
+C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\paint.rs:
+C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\style.rs:
+C:\Users\aresray\.cargo\registry\src\github.com-1ecc6299db9ec823\yansi-0.5.0\src\color.rs:
